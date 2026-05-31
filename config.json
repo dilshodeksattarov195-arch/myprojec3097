@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervetch",
+        "uuid": 27950425,
+        "checksum": "jmfkmm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
